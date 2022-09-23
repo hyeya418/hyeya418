@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-- 📫 How to reach me: widom4466@naver.com
+- 📫 How to reach me: wisdom4466@naver.com
 - ⚡ Fun fact: hoya is cute!
 
 # 📚stacks
