@@ -1,7 +1,9 @@
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-⚡welcome to hyeya's git⚡
+### welcome to hyeya's git👋
+
+---
 
 📚stacks
 
